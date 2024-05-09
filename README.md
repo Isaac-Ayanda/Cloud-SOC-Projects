@@ -14,7 +14,7 @@
 
 ----
 
-Feel free to connect with me on LinkedIn! 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isaacayanda/)! 
 
 Thank you,
 
