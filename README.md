@@ -2,7 +2,7 @@
 
 <h1>Cybersecurity Analyst Projects</h1>
 
-<b> I configured my own cloud-based SOC environment within Azure. This is a demonstration that I set up Azure Pre-Requisite Installation, SQL, Failed Authentication, Active Directory, Logging and Monitoring, Microsoft Sentinel SIEM, and Secure Cloud Configuration.<b/>
+<b> I setup a cloud-based SOC environment within Azure which included Azure Pre-Requisite Installation, SQL, Failed Authentication, Active Directory, Logging and Monitoring, Microsoft Sentinel SIEM, and Secure Cloud Configuration.<b/>
 
 ---
 
@@ -14,8 +14,6 @@
 
 ----
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isaacayanda/)! 
+Let's connect on [LinkedIn](https://www.linkedin.com/in/isaacayanda/)! 
 
-Thank you,
-
-Isaac
+Thank you, Isaac
