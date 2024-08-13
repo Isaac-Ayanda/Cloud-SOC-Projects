@@ -11,6 +11,9 @@ In this project, I build a honeynet in Azure and ingest log sources from various
 - SecurityAlert (Log Analytics Alerts Triggered)
 - SecurityIncident (Incidents created by Sentinel)
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
+## Regulations and Guidelines
+- NIST SP 800-53 Revision 5 for Security Controls
+- NIST SP 800-61 Revision 2 for Incident Handling Guidance
 
 ## Architecture Before Hardening / Security Controls
 ![Architecture Diagram](https://github.com/user-attachments/assets/514fc2a3-c46b-4219-9112-84ed329748c3)
