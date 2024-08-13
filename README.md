@@ -1,5 +1,6 @@
 # SOC Honeynet Azure Live Traffic Project
-![Cloud Honeynet / SOC](https://i.imgur.com/a/hnXvGan.gif)
+![Soc-siem](https://github.com/user-attachments/assets/64356823-6a3a-408c-aded-6e80491103b1)
+
 
 ## Introduction
 
