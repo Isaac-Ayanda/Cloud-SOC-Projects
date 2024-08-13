@@ -1,5 +1,5 @@
 # SOC Honeynet Azure Live Traffic Project
-![Cloud Honeynet / SOC](https://i.imgur.com/hDsu4r1.jpg)
+![Cloud Honeynet / SOC](https://i.imgur.com/a/hnXvGan.gif)
 
 ## Introduction
 
