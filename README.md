@@ -1,4 +1,4 @@
-# Cloud SOC (SIEM + Honeynet Live Traffic) Project in Azure
+# SOC: SIEM + Honeynet Azure Detection Lab
 ![Soc-siem](https://github.com/user-attachments/assets/64356823-6a3a-408c-aded-6e80491103b1)
 
 
